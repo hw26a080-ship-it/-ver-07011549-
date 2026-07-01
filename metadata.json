@@ -1,0 +1,8 @@
+{
+  "name": "論理パズル・クエスト【ver 07011549】",
+  "description": "様々な種類の論理パズルを解いて最高スコアを目指すステージ制パズルゲーム。ランキング機能で他のプレイヤーとスコアを競い合おう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
